@@ -94,13 +94,6 @@ My strength lies in analyzing complex requirements, designing effective test str
 - 📧 Email: **hossainmim2635@gmail.com**  
 - 📱 Phone: **+8801772559986**  
 
----
-
-## 🟢 Availability
-
-🚀 Open to **Software Quality Assurance / Automation Engineer roles**
-
----
 
 <p align="center">
   ⭐ If you like my work, consider giving a star!
