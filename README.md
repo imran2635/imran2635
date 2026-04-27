@@ -1,6 +1,6 @@
 <!-- PROFILE HEADER -->
 <h1 align="center">Hi 👋, I'm Imran Hossain</h1>
-<h3 align="center">SQA Engineer | Automation Enthusiast | Future AI Engineer</h3>
+<h3 align="center">SQA Engineer | Automation Enthusiast 
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=imran-hossain&label=Profile%20views&color=0e75b6&style=flat" />
@@ -79,23 +79,6 @@ My strength lies in analyzing complex requirements, designing effective test str
   <img src="https://skillicons.dev/icons?i=js,java,python,selenium,docker,mysql,git,github,jenkins" />
 </p>
 
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=imran-hossain&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=imran-hossain&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imran-hossain&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 📜 Certifications
 
