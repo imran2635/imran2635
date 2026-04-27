@@ -75,8 +75,13 @@ My strength lies in analyzing complex requirements, designing effective test str
 ---
 
 ### 💻 Tech Stack
+
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,python,selenium,playwright,docker,mysql,git,github,jenkins" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,selenium,docker,mysql,git,github,jenkins" />
+</p>
+
+<p>
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
 </p>
 
 
