@@ -76,7 +76,7 @@ My strength lies in analyzing complex requirements, designing effective test str
 
 ### 💻 Tech Stack
 <p>
-  <img src="https://skillicons.dev/icons?i=js,java,python,selenium,Playwright,docker,mysql,git,github,jenkins" />
+  <img src="https://skillicons.dev/icons?i=js,java,python,selenium,playwright,docker,mysql,git,github,jenkins" />
 </p>
 
 
