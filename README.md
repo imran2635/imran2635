@@ -34,7 +34,7 @@ My strength lies in analyzing complex requirements, designing effective test str
 
 - 🔭 Working as a **Software Quality Assurance (SQA) Engineer**  
 - 📈 Actively seeking **career growth opportunities**  
-- 🌱 Learning **Playwright, Selenium, JavaScript, Java, Python**  
+- 🌱 Learning **Playwright, Selenium, JavaScript, Java, Typescript**  
 - 🤖 Exploring **Generative AI & Data Science**  
 - 💬 Open to discussions on **SDET,QA, Automation, AI, Startups**  
 
