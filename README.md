@@ -40,7 +40,7 @@ My strength lies in analyzing complex requirements, designing effective test str
 
 ---
 
-## 📊 Projects Highlights
+## 📊 Project Highlights
 https://dynamaticapp.com/
 https://maltadiscountcard.com/
 https://autoworx.tech/
