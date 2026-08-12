@@ -40,6 +40,17 @@ My strength lies in analyzing complex requirements, designing effective test str
 
 ---
 
+## 📊 Projects Highlights
+https://dynamaticapp.com/
+https://maltadiscountcard.com/
+https://autoworx.tech/
+https://aungsha.com/
+https://banglareels.com/en
+https://store.bponi.com/
+https://www.boisodai.com/
+https://www.nursurveysolution.com/
+
+
 ## 📊 Profile Highlights
 
 - 💼 **2+ Years** of Professional Experience  
