@@ -43,7 +43,7 @@ My strength lies in analyzing complex requirements, designing effective test str
 ## 📊 Profile Highlights
 
 - 💼 **2+ Years** of Professional Experience  
-- 🐞 Identified & Reported **1000+ Bugs**  
+- 🐞 Identified & Reported **1500+ Bugs**  
 - 📁 Successfully Delivered **46+ Projects**  
 
 ---
