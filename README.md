@@ -55,7 +55,7 @@ https://www.nursurveysolution.com/
 
 - 💼 **2+ Years** of Professional Experience  
 - 🐞 Identified & Reported **1500+ Bugs**  
-- 📁 Successfully Delivered **46+ Projects**  
+- 📁 Successfully Delivered **47+ Projects**  
 
 ---
 
