@@ -2,9 +2,7 @@
 <h1 align="center">Hi 👋, I'm Imran Hossain</h1>
 <h3 align="center">SQA Engineer | Automation Enthusiast 
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=imran-hossain&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
+
 
 <p align="center">
   <a href="https://www.linkedin.com/in/imran-hossain-40181b1a0/">
